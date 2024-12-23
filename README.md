@@ -1,3 +1,7 @@
+# $tewjie's Github Home Page
+
+Pronounced "Stew-key".
+
 ## Lei Zef
 
 "Metaal klap van 'n kodeerder."
