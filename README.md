@@ -1,10 +1,6 @@
 # $tewjie's Github Home Page
 
-Pronounced "Stew-key":
-
-
-https://github.com/user-attachments/assets/6dadd168-facc-47d9-acb2-b23bec2b9f05
-
+Pronounced "Stew-key".
 
 ## Lei Zef
 
