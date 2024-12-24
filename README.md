@@ -1,6 +1,8 @@
 # $tewjie's Github Home Page
 
-Pronounced "Stew-key".
+(Pronounced "Stew-key".)
+
+![non alcoholic "near beer" < 1% alcohol by volume](under-construction.gif)
 
 ## Lei Zef
 
